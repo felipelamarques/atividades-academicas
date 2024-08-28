@@ -1,0 +1,7 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\bin\Debug\Geometria.exe.config
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\bin\Debug\Geometria.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\bin\Debug\Geometria.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\obj\Debug\Geometria.csproj.AssemblyReference.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\obj\Debug\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\obj\Debug\Geometria.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoGeometrica\Geometria\obj\Debug\Geometria.pdb

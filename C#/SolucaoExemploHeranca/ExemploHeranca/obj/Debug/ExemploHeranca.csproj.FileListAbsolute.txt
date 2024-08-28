@@ -1,0 +1,7 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.exe.config
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\bin\Debug\ExemploHeranca.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.csproj.AssemblyReference.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoExemploHeranca\ExemploHeranca\obj\Debug\ExemploHeranca.pdb

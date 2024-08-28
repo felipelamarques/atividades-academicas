@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\SolucaoAula18MAR2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A564BCFE-7788-4238-A4C9-0557F5790D46}|TutorialHeranca\\TutorialHeranca.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\solucaoaula18mar2024\\tutorialheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A564BCFE-7788-4238-A4C9-0557F5790D46}|TutorialHeranca\\TutorialHeranca.csproj|solutionrelative:tutorialheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2151B69C-D5ED-4FB7-9615-3ED55C225961}|Aula18MAR2024\\Aula18MAR2024.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\solucaoaula18mar2024\\aula18mar2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2151B69C-D5ED-4FB7-9615-3ED55C225961}|Aula18MAR2024\\Aula18MAR2024.csproj|solutionrelative:aula18mar2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\SolucaoAula18MAR2024\\TutorialHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "TutorialHeranca\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\SolucaoAula18MAR2024\\TutorialHeranca\\Program.cs",
+              "RelativeToolTip": "TutorialHeranca\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:05:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\SolucaoAula18MAR2024\\Aula18MAR2024\\Program.cs",
+              "RelativeDocumentMoniker": "Aula18MAR2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\SolucaoAula18MAR2024\\Aula18MAR2024\\Program.cs",
+              "RelativeToolTip": "Aula18MAR2024\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:04:34.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

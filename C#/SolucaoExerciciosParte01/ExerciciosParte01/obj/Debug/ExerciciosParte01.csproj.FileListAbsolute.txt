@@ -1,0 +1,7 @@
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\bin\Debug\ExerciciosParte01.exe.config
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\bin\Debug\ExerciciosParte01.exe
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\bin\Debug\ExerciciosParte01.pdb
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\obj\Debug\ExerciciosParte01.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\obj\Debug\ExerciciosParte01.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\obj\Debug\ExerciciosParte01.exe
+C:\Users\felip\OneDrive\Documentos\Acadêmicos\C#\Codigos\SolucaoExerciciosParte01\ExerciciosParte01\obj\Debug\ExerciciosParte01.pdb

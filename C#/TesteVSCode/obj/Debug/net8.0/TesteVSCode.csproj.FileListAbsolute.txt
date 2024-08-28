@@ -1,0 +1,14 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\bin\Debug\net8.0\TesteVSCode.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\bin\Debug\net8.0\TesteVSCode.deps.json
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\bin\Debug\net8.0\TesteVSCode.runtimeconfig.json
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\bin\Debug\net8.0\TesteVSCode.dll
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\bin\Debug\net8.0\TesteVSCode.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.AssemblyInfoInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.AssemblyInfo.cs
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.dll
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\refint\TesteVSCode.dll
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\TesteVSCode.genruntimeconfig.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\TesteVSCode\obj\Debug\net8.0\ref\TesteVSCode.dll

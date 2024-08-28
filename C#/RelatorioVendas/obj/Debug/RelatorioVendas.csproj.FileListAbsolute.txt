@@ -1,0 +1,7 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\bin\Debug\RelatorioVendas.exe.config
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\bin\Debug\RelatorioVendas.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\bin\Debug\RelatorioVendas.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\obj\Debug\RelatorioVendas.csproj.AssemblyReference.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\obj\Debug\RelatorioVendas.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\obj\Debug\RelatorioVendas.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\RelatorioVendas\obj\Debug\RelatorioVendas.pdb

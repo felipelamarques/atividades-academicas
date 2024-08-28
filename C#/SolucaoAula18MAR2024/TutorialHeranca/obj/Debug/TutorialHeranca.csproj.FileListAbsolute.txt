@@ -1,0 +1,7 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\bin\Debug\TutorialHeranca.exe.config
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\bin\Debug\TutorialHeranca.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\bin\Debug\TutorialHeranca.pdb
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\obj\Debug\TutorialHeranca.csproj.AssemblyReference.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\obj\Debug\TutorialHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\obj\Debug\TutorialHeranca.exe
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\TutorialHeranca\obj\Debug\TutorialHeranca.pdb

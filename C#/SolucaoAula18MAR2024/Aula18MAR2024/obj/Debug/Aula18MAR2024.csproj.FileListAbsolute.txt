@@ -1,0 +1,2 @@
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\Aula18MAR2024\obj\Debug\Aula18MAR2024.csproj.AssemblyReference.cache
+C:\Users\Felipe Marques\OneDrive\Documentos\Facul\3º Semestre\Programas Orientado a Objetos\SolucaoAula18MAR2024\Aula18MAR2024\obj\Debug\Aula18MAR2024.csproj.CoreCompileInputs.cache

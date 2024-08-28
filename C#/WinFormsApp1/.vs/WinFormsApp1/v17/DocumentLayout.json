@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B20C55-E064-4E52-B059-8665540EADBA}|Banco\\Banco.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\banco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B20C55-E064-4E52-B059-8665540EADBA}|Banco\\Banco.csproj|solutionrelative:banco\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\felipe marques\\onedrive\\documentos\\facul\\3\u00BA semestre\\programas orientado a objetos\\winformsapp1\\winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8C52DD7-595A-4114-A2E3-9E825477F03A}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Class1.cs",
+              "RelativeDocumentMoniker": "Banco\\Class1.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Class1.cs",
+              "RelativeToolTip": "Banco\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:04:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:28:25.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:18:09.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:08:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Projeto]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:58:36.779Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form2.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3\u00BA Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\WinFormsApp1\\Form2.cs [Projeto]",
+              "RelativeToolTip": "WinFormsApp1\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:59:51.9Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
