@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3º Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Banco.csproj": {}
+    "C:\\Users\\Felipe\\OneDrive\\Documentos\\02-Acadêmico\\git.atividades-academicas\\C#\\WinFormsApp1\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3º Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Banco.csproj": {
+    "C:\\Users\\Felipe\\OneDrive\\Documentos\\02-Acadêmico\\git.atividades-academicas\\C#\\WinFormsApp1\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3º Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Banco.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Documentos\\02-Acadêmico\\git.atividades-academicas\\C#\\WinFormsApp1\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3º Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\Banco.csproj",
-        "packagesPath": "C:\\Users\\Felipe Marques\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe Marques\\OneDrive\\Documentos\\Facul\\3º Semestre\\Programas Orientado a Objetos\\WinFormsApp1\\Banco\\obj\\",
+        "projectPath": "C:\\Users\\Felipe\\OneDrive\\Documentos\\02-Acadêmico\\git.atividades-academicas\\C#\\WinFormsApp1\\Banco\\Banco.csproj",
+        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Felipe\\OneDrive\\Documentos\\02-Acadêmico\\git.atividades-academicas\\C#\\WinFormsApp1\\Banco\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Felipe Marques\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

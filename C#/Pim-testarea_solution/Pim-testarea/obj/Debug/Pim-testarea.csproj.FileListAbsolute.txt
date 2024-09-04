@@ -1,0 +1,10 @@
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim-testarea.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim_testarea.Form1.resources
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim_testarea.Properties.Resources.resources
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim-testarea.csproj.GenerateResource.cache
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim-testarea.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\bin\Debug\Pim-testarea.exe.config
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\bin\Debug\Pim-testarea.exe
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\bin\Debug\Pim-testarea.pdb
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim-testarea.exe
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\Pim-testarea_solution\Pim-testarea\obj\Debug\Pim-testarea.pdb

@@ -1,0 +1,5 @@
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\WinFormsApp1\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\WinFormsApp1\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\WinFormsApp1\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\WinFormsApp1\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Documentos\02-Acadêmico\git.atividades-academicas\C#\WinFormsApp1\Banco\obj\Debug\net8.0\Banco.sourcelink.json
