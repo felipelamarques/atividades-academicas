@@ -27,11 +27,11 @@ sqlconnection = pyodbc.connect(sqlconnection_string)
 print("Conexão Bem Sucedida")
 
 #Criando cursor para executar comandos SQL
-cursor = sqlconnection.cursor()
+#cursor = sqlconnection.cursor()
 
 #variável para receber o comando em SQL
-sqlcommand = """INSERT INTO tb01(NOME) VALUES('Ingrid Lacerda')"""
+#sqlcommand = """INSERT INTO tb01(NOME) VALUES('Ingrid Lacerda')"""
 
 #executa o comando da variável 'sqlcommand'
-cursor.execute(sqlcommand)
-cursor.commit() #Só é usado se o 'sqlcommand' edita, criar ou deletar uma nova informação ou tabela
+#cursor.execute(sqlcommand)
+#cursor.commit() #Só é usado se o 'sqlcommand' edita, criar ou deletar uma nova informação ou tabela
